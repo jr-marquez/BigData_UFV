@@ -22,3 +22,7 @@ Tenemos dos opciones para instalar git en nuestros ordenadores:
 * Instalación del client : https://github.com/cli/cli#installation
 * Instalación de Git Desktop: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
 
+## Apache Nifi
+
+1. Setup inicial y puesta a punto:
+    * [Setup](Apache Nifi/labs/01_Setup.md)
