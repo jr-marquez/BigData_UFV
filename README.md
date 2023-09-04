@@ -16,7 +16,7 @@ Dependiendo del sistema operativo:
 
 Recomendamos el uso de git para descargar versiones actualizadas de los reposittorios, sin embargo se puede descargar la carpeta como git en :
 
-<img src="img/descargazip.png" width="400" height="300">
+<img src="img/descargazip.png" width="400" height="350">
 
 Tenemos dos opciones para instalar git en nuestros ordenadores:
 * Instalación del client : https://github.com/cli/cli#installation
