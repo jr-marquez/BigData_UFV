@@ -14,6 +14,10 @@ Dependiendo del sistema operativo:
 
 ## Instalación Git
 
-Tenemos dos opciones:
+Recomendamos el uso de git para descargar versiones actualizadas de los reposittorios, sin embargo se puede descargar la carpeta como git en :
+<img src="img/descargazip.png">
+
+Tenemos dos opciones para instalar git en nuestros ordenadores:
 * Instalación del client : https://github.com/cli/cli#installation
 * Instalación de Git Desktop: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
