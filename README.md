@@ -25,4 +25,4 @@ Tenemos dos opciones para instalar git en nuestros ordenadores:
 ## Apache Nifi
 
 1. Setup inicial y puesta a punto:
-    * [Setup](Apache Nifi/labs/01_Setup.md)
+    * [Setup](Apache%20Nifi/labs/01_Setup.md)
