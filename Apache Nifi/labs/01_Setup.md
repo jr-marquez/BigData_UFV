@@ -31,6 +31,8 @@ base) Ramon-Marquez-MBP15:Apache Nifi ramon$ docker-compose up -d
 [+] Running 1/1
  ✔ Container nifi  Started                                                 3.1s 
  ```
-
+Luego de 5 minutos aproximadamente ver si podemos acceder a la consolo de desarrollo en : **http:localhost:8080**
+Debería de aparecer algo como:
+<img src="img/nifihomepage.png" width="400" height="350">
 
 [Volver al Menú Principal](https://github.com/jr-marquez/BigData_UFV/blob/main/README.md#apache-nifi)
